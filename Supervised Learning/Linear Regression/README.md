@@ -116,34 +116,6 @@ $$
 
 ## Gradients
 
-### Weight Gradient
-
-$$
-\frac{\partial J}{\partial w}
-=
-\frac1mX^T(\hat y-y)
-$$
-
-### Bias Gradient
-
-$$
-\frac{\partial J}{\partial b}
-=
-\frac1m\sum(\hat y-y)
-$$
-
----
-
-## Gradient Descent Update
-
-$$
-w=w-\alpha\frac{\partial J}{\partial w}
-$$
-
-$$
-b=b-\alpha\frac{\partial J}{\partial b}
-$$
-
 For a complete mathematical derivation, see **DERIVATION.md**.
 
 ---
