@@ -5,30 +5,6 @@
 
 ---
 
-## Overview
-
-This project demonstrates how Linear Regression works internally by implementing every step manually—from preprocessing the dataset to optimizing the model using Gradient Descent.
-
-The objective is to understand the mathematics behind the algorithm rather than relying on high-level libraries like scikit-learn.
-
----
-
-## Features
-
-- Data Preprocessing
-- Missing Value Handling
-- Duplicate Removal
-- Categorical Encoding
-- Feature Scaling
-- Train/Test Split
-- Linear Regression from Scratch
-- Mean Squared Error (MSE)
-- Batch Gradient Descent
-- Model Evaluation
-- Interactive Training Visualizations using Plotly
-
----
-
 ## Project Structure
 
 ```text
@@ -43,9 +19,12 @@ Linear Regression/
 │   ├── weights_plot.html
 │   └── training_animation.html
 │
-├── DERIVATION.md
 └── README.md
 ```
+
+## Project Structure
+For derivation and explanation, see 'Exaplanation & Derivations' PDF
+
 
 ---
 
@@ -93,52 +72,6 @@ L -- No --> G
 L -- Yes --> M
 M --> N
 ```
-
----
-
-# Mathematical Formulation
-
-## Hypothesis Function
-
-$$
-\hat y = Xw+b
-$$
-
----
-
-## Mean Squared Error
-
-$$
-J(w,b)=\frac1m\sum_{i=1}^{m}(y_i-\hat y_i)^2
-$$
-
----
-
-## Gradients
-
-For a complete mathematical derivation, see **DERIVATION.md**.
-
----
-
-# Implementation
-
-| Method | Description |
-|---------|-------------|
-| `fit()` | Trains the model using Batch Gradient Descent |
-| `predict()` | Predicts target values |
-| `mean_squared_error()` | Computes the Mean Squared Error |
-
----
-
-# Visualizations
-
-The repository contains interactive visualizations generated during training.
-
-| Visualization | Description |
-|---------------|-------------|
-| Loss Curve | Shows the decrease in MSE during training |
-| Weight Convergence | Tracks how each feature weight evolves |
-| Training Animation | Actual vs Predicted values throughout training |
 
 ---
 

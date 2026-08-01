@@ -28,26 +28,6 @@ Building-Models-From-Scratch/
 ├── Supervised Learning/
 │   ├── Linear Regression/
 │   ├── Logistic Regression/
-│   ├── Decision Tree/
-│   ├── Random Forest/
-│   ├── Support Vector Machine/
-│   ├── K-Nearest Neighbors/
-│   └── Naive Bayes/
-│
-├── Unsupervised Learning/
-│   ├── K-Means/
-│   ├── PCA/
-│   └── DBSCAN/
-│
-├── Deep Learning/
-│   ├── Perceptron/
-│   ├── Neural Network/
-│   ├── CNN/
-│   ├── RNN/
-│   ├── LSTM/
-│   ├── GRU/
-│   ├── Transformer/
-│   └── GPT/
 │
 ├── README.md
 ├── requirements.txt
@@ -63,37 +43,9 @@ Building-Models-From-Scratch/
 | Algorithm | Status |
 |-----------|:------:|
 | Linear Regression | ✅ |
-| Logistic Regression | ⏳ |
-| Decision Tree | ⏳ |
-| Random Forest | ⏳ |
-| Support Vector Machine | ⏳ |
-| K-Nearest Neighbors | ⏳ |
-| Naive Bayes | ⏳ |
+| Binary Class Logistic Regression | ✅ |
+| Multiclass Logistic Regression | ⏳ |
 
----
-
-## Unsupervised Learning
-
-| Algorithm | Status |
-|-----------|:------:|
-| K-Means | ⏳ |
-| Principal Component Analysis (PCA) | ⏳ |
-| DBSCAN | ⏳ |
-
----
-
-## Deep Learning
-
-| Algorithm | Status |
-|-----------|:------:|
-| Perceptron | ⏳ |
-| Feed Forward Neural Network | ⏳ |
-| Convolutional Neural Network (CNN) | ⏳ |
-| Recurrent Neural Network (RNN) | ⏳ |
-| LSTM | ⏳ |
-| GRU | ⏳ |
-| Transformer | ⏳ |
-| GPT | ⏳ |
 
 ---
 
@@ -104,7 +56,6 @@ Each algorithm includes:
 - Mathematical derivation
 - Step-by-step implementation
 - Dataset preprocessing
-- Gradient derivations (where applicable)
 - Training visualizations
 - Performance evaluation
 - References
@@ -118,7 +69,7 @@ Each algorithm includes:
 - Pandas
 - Plotly
 - PyTorch
-- Jupyter Notebook
+- Sklearn
 
 ---
 
