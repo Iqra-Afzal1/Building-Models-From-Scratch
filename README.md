@@ -64,36 +64,7 @@ Building-Models-From-Scratch/
 |-----------|:------:|
 | Linear Regression | ✅ |
 | Logistic Regression | ⏳ |
-| Decision Tree | ⏳ |
-| Random Forest | ⏳ |
-| Support Vector Machine | ⏳ |
-| K-Nearest Neighbors | ⏳ |
-| Naive Bayes | ⏳ |
 
----
-
-## Unsupervised Learning
-
-| Algorithm | Status |
-|-----------|:------:|
-| K-Means | ⏳ |
-| Principal Component Analysis (PCA) | ⏳ |
-| DBSCAN | ⏳ |
-
----
-
-## Deep Learning
-
-| Algorithm | Status |
-|-----------|:------:|
-| Perceptron | ⏳ |
-| Feed Forward Neural Network | ⏳ |
-| Convolutional Neural Network (CNN) | ⏳ |
-| Recurrent Neural Network (RNN) | ⏳ |
-| LSTM | ⏳ |
-| GRU | ⏳ |
-| Transformer | ⏳ |
-| GPT | ⏳ |
 
 ---
 
