@@ -46,7 +46,6 @@ Building-Models-From-Scratch/
 | Binary Class Logistic Regression | ✅ |
 | Multiclass Logistic Regression | ⏳ |
 
-
 ---
 
 # What You'll Find in Each Project
