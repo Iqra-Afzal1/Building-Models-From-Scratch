@@ -1,6 +1,6 @@
-# Linear Regression From Scratch
+# Logistic Regression From Scratch
 
-> A complete implementation of **Logistic Regression** using **PyTorch**.  
+> A complete implementation of **Binary and Multiclass Logistic Regression** using **PyTorch**.  
 
 ---
 
@@ -14,10 +14,20 @@ Logistic Regression/
 │
 ├── notebook/
 │   └── binary_class_logis_regr.ipynb
+│   └── multi_class_logis_regr.ipynb
 │
 ├── visualizations/
-│   ├── class_distribution_pca.html
-│   └── decision_boundary_pca.html
+│   ├── binary_class
+|       └── class_distribution_pca.html
+|       └── decision_boundary_pca.html
+│   ├── multi_class
+|       └── 2d_pca_multiclass_distribution.html
+|       └── 3d_pca_multiclass_distribution.html
+|       └── A_boundary_in_2d_pca.html
+|       └── B_boundary_in_2d_pca.html
+|       └── C_boundary_in_2d_pca.html
+|       └── D_boundary_in_2d_pca.html
+|       └── E_boundary_in_2d_pca.html
 │
 └── README.md
 ```

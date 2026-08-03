@@ -44,8 +44,8 @@ Building-Models-From-Scratch/
 |-----------|:------:|
 | Linear Regression | ✅ |
 | Binary Class Logistic Regression | ✅ |
-| Multiclass Logistic Regression | ⏳ |
-
+| Multiclass Logistic Regression | ✅ |
+| Decision Tree | ⏳ |
 ---
 
 # What You'll Find in Each Project
