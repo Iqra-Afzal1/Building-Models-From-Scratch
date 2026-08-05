@@ -45,7 +45,9 @@ Building-Models-From-Scratch/
 | Linear Regression | ✅ |
 | Binary Class Logistic Regression | ✅ |
 | Multiclass Logistic Regression | ✅ |
-| Decision Tree | ⏳ |
+| Decision Tree (CART)| ✅ |
+| KNN | ⏳ |
+
 ---
 
 # What You'll Find in Each Project
