@@ -25,9 +25,11 @@ Every implementation is accompanied by:
 ```text
 Building-Models-From-Scratch/
 │
-├── Supervised Learning/
+├── Classical Machine Learning/
 │   ├── Linear Regression/
 │   ├── Logistic Regression/
+│   ├── Decision Tree/
+│   ├── KNN/
 │
 ├── README.md
 ├── requirements.txt
@@ -45,8 +47,9 @@ Building-Models-From-Scratch/
 | Linear Regression | ✅ |
 | Binary Class Logistic Regression | ✅ |
 | Multiclass Logistic Regression | ✅ |
-| Decision Tree (CART)| ✅ |
-| KNN | ⏳ |
+| Decision Tree (CART - Classification)| ✅ |
+| KNN Classification| ✅ |
+| KNN Regression | ⏳ |
 
 ---
 
