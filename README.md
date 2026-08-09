@@ -49,7 +49,8 @@ Building-Models-From-Scratch/
 | Multiclass Logistic Regression | ✅ |
 | Decision Tree (CART - Classification)| ✅ |
 | KNN Classification| ✅ |
-| KNN Regression | ⏳ |
+| KNN Regression | ✅ |
+| Clustering | ⏳ |
 
 ---
 
