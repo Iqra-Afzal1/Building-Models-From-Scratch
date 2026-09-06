@@ -45,6 +45,7 @@ Building-Models-From-Scratch/
 | Algorithm | Status |
 |-----------|:------:|
 | Linear Regression | ✅ |
+| Linear Regression with SGD (Momentum + Bias Correction) | ✅ |
 | Binary Class Logistic Regression | ✅ |
 | Multiclass Logistic Regression | ✅ |
 | Decision Tree (CART - Classification)| ✅ |
